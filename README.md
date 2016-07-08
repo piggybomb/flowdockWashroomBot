@@ -16,3 +16,11 @@ Flowdock Api token must be set as environment variable. Token can be obtained on
 
     % export HUBOT_FLOWDOCK_API_TOKEN=<TOKEN>
     
+
+Supported commands:
+
+    status
+    reserve <GENDER> <NAME> <FLOOR>
+    free <GENDER> <NAME> <FLOOR>
+
+TODO: time constraints
